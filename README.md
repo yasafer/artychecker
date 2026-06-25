@@ -1,6 +1,6 @@
 # ArtyCheck
 
-Advanced Minecraft Mod Scanner for Server Administration
+Advanced Minecraft Mod Scanner for unheardvoice
 
 ArtyCheck — это десктопное приложение для автоматической проверки Minecraft-модов на наличие запрещённых клиентов, подозрительных сигнатур и потенциально опасных модификаций.
 
